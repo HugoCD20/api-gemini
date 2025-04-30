@@ -58,6 +58,7 @@ cp .env-example .env
 
 # Ejecutar el servidor
 python3 api.py
+
 📄 Notas
 Asegúrate de tener todas las variables necesarias definidas en el archivo .env.
 
