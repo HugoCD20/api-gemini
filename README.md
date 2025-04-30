@@ -12,7 +12,7 @@ pip (normalmente viene con Python)
 bash
 Copiar
 Editar
-# Entrar a la carpeta backend
+## Entrar a la carpeta backend
 cd backend
 
 # Crear el entorno virtual
